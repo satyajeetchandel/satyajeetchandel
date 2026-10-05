@@ -143,7 +143,7 @@ Blockchain framework exploring:
 
 <br/><br/>
 
-⭐ If you like my projects, consider giving them a star! 😊
+### ⭐ If you like my projects, consider giving them a star! 😊
 
 <br/>
 
