@@ -123,11 +123,15 @@ Blockchain framework exploring:
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyajeetchandel&amp;theme=github_dark" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajeetchandel&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyajeetchandel&amp;theme=github_dark" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyajeetchandel&amp;theme=github_dark" />
+</p>
 
 ---
 
