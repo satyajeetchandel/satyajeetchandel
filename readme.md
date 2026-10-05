@@ -130,7 +130,7 @@ Blockchain framework exploring:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyajeetchandel&amp;theme=github_dark" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyajeetchandel&amp;theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyajeetchandel&amp;theme=radical" />
 </p>
 
 ---
